@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92+devel unknown"
+   sodipodi:docname="horario.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="546.82873"
+     inkscape:cy="536.90388"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="1680"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4711"
+       transform="matrix(1,0,0,0.95714621,93.775117,3.8091368)">
+      <rect
+         y="88.886818"
+         x="45.746708"
+         height="165.44106"
+         width="46.49432"
+         id="rect4409"
+         style="fill:#8a6f91;stroke:none;stroke-width:0.52899998;stroke-miterlimit:10;stroke-dasharray:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4704"
+         style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0,-0.17960049,0.17960049,0,-53.691507,223.85425)"><flowRegion
+           id="flowRegion4700"><rect
+             id="rect4698"
+             width="522.7049"
+             height="70.232834"
+             x="46.922432"
+             y="659.54645" /></flowRegion><flowPara
+           id="flowPara4702"
+           style="fill:#f9f9f9">Exposición de proyectos</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:#668000;stroke:none;stroke-width:0.31835175;stroke-miterlimit:10;stroke-dasharray:none"
+       id="rect4419"
+       width="46.758385"
+       height="59.916504"
+       x="45.283035"
+       y="97.469086" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4421"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none"
+       transform="matrix(0.12666617,0,0,0.12666617,0.17405194,55.541317)"><flowRegion
+         id="flowRegion4423"
+         style="fill:#f9f9f9;fill-opacity:1"><rect
+           id="rect4425"
+           width="319.91641"
+           height="101.81543"
+           x="378.77756"
+           y="522.04419"
+           style="fill:#f9f9f9;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara4427"><flowSpan
+   style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+   id="flowSpan4429">Taller Echidnashield</flowSpan> de </flowPara></flowRoot>    <g
+       id="g4453"
+       transform="translate(-47.222572,85.303306)">
+      <rect
+         style="fill:#668000;stroke:none;stroke-width:0.1691654;stroke-miterlimit:10;stroke-dasharray:none"
+         id="rect4441"
+         width="46.758385"
+         height="16.918236"
+         x="92.505608"
+         y="92.841293" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4451"
+         style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none"
+         transform="matrix(0.12666617,0,0,0.12666617,47.396624,29.414391)"><flowRegion
+           id="flowRegion4445"
+           style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"><rect
+             id="rect4443"
+             width="319.91641"
+             height="101.81543"
+             x="378.77756"
+             y="522.04419"
+             style="fill:#f9f9f9;fill-opacity:1;text-anchor:middle;text-align:center;" /></flowRegion><flowPara
+           id="flowPara4449">Charla-demo FPGAs Libres </flowPara></flowRoot>    </g>
+    <g
+       transform="translate(-47.222572,109.4618)"
+       id="g4471">
+      <rect
+         y="92.841293"
+         x="92.505608"
+         height="16.918236"
+         width="46.758385"
+         id="rect4461"
+         style="fill:#668000;stroke:none;stroke-width:0.1691654;stroke-miterlimit:10;stroke-dasharray:none" />
+      <flowRoot
+         transform="matrix(0.12666617,0,0,0.12666617,47.396624,29.414391)"
+         style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none"
+         id="flowRoot4469"
+         xml:space="preserve"><flowRegion
+           style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+           id="flowRegion4465"><rect
+             style="fill:#f9f9f9;fill-opacity:1;text-anchor:middle;text-align:center;"
+             y="522.04419"
+             x="378.77756"
+             height="101.81543"
+             width="319.91641"
+             id="rect4463" /></flowRegion><flowPara
+           id="flowPara4467">Charla Robótica de competición </flowPara></flowRoot>    </g>
+    <rect
+       y="226.46158"
+       x="45.283035"
+       height="16.918236"
+       width="46.758385"
+       id="rect4473"
+       style="fill:#668000;stroke:none;stroke-width:0.1691654;stroke-miterlimit:10;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.12666617,0,0,0.12666617,-0.12764606,162.96838)"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="flowRoot4481"
+       xml:space="preserve"><flowRegion
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+         id="flowRegion4477"><rect
+           style="text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1"
+           y="518.69073"
+           x="364.43634"
+           height="101.08137"
+           width="355.04266"
+           id="rect4475" /></flowRegion><flowPara
+         id="flowPara4479">Charla de Robots con patas</flowPara></flowRoot>    <g
+       transform="translate(-46.957474,134.66605)"
+       id="g4574">
+      <rect
+         style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none"
+         id="rect4491"
+         width="46.493809"
+         height="22.00404"
+         x="139.52806"
+         y="-40.730583" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.54593515px;font-family:sans-serif;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.13864836"
+         x="159.57674"
+         y="-25.925819"
+         id="text4495"
+         transform="scale(0.94163174,1.0619863)"><tspan
+           sodipodi:role="line"
+           id="tspan4493"
+           x="159.57674"
+           y="-25.925819"
+           style="fill:#f2f2f2;stroke-width:0.13864836">Laberinto</tspan></text>
+    </g>
+    <g
+       transform="translate(-46.957474,134.7202)"
+       id="g4580">
+      <rect
+         y="-16.575029"
+         x="139.52806"
+         height="22.00404"
+         width="46.493809"
+         id="rect4567"
+         style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none" />
+      <text
+         id="text4506"
+         y="-6.7854948"
+         x="162.74182"
+         style="font-style:normal;font-weight:normal;font-size:5.22222853px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1305557"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
+           y="-6.7854948"
+           x="162.74182"
+           id="tspan4504"
+           sodipodi:role="line">Siguelíneas de</tspan><tspan
+           id="tspan4513"
+           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
+           y="-0.25770915"
+           x="162.74182"
+           sodipodi:role="line"> iniciación</tspan></text>
+    </g>
+    <g
+       id="g4585"
+       transform="translate(-46.957474,134.66604)">
+      <rect
+         style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none"
+         id="rect4569"
+         width="46.493809"
+         height="22.00404"
+         x="139.52806"
+         y="7.6888237" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.22222853px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1305557"
+         x="162.74182"
+         y="20.637705"
+         id="text4525"><tspan
+           sodipodi:role="line"
+           x="162.74182"
+           y="20.637705"
+           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
+           id="tspan4523">Velocistas</tspan></text>
+    </g>
+    <g
+       transform="translate(-46.957474,167.94158)"
+       id="g4593">
+      <rect
+         y="7.6888237"
+         x="139.52806"
+         height="22.00404"
+         width="46.493809"
+         id="rect4587"
+         style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none" />
+      <text
+         id="text4591"
+         y="20.637705"
+         x="162.74182"
+         style="font-style:normal;font-weight:normal;font-size:5.22222853px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1305557"
+         xml:space="preserve"><tspan
+           id="tspan4589"
+           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
+           y="20.637705"
+           x="162.74182"
+           sodipodi:role="line">Sumo robot</tspan></text>
+    </g>
+    <g
+       id="g4601"
+       transform="translate(-46.957474,192.51802)">
+      <rect
+         style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none"
+         id="rect4595"
+         width="46.493809"
+         height="22.00404"
+         x="139.52806"
+         y="7.6888237" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.22222853px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1305557"
+         x="162.74182"
+         y="20.637705"
+         id="text4599"><tspan
+           sodipodi:role="line"
+           x="162.74182"
+           y="20.637705"
+           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
+           id="tspan4597">Combate</tspan></text>
+    </g>
+    <g
+       transform="translate(-46.957474,217.09445)"
+       id="g4609">
+      <rect
+         y="7.6888237"
+         x="139.52806"
+         height="22.00404"
+         width="46.493809"
+         id="rect4603"
+         style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none" />
+      <text
+         id="text4607"
+         y="20.637705"
+         x="162.74182"
+         style="font-style:normal;font-weight:normal;font-size:5.22222853px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1305557"
+         xml:space="preserve"><tspan
+           id="tspan4605"
+           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
+           y="20.637705"
+           x="162.74182"
+           sodipodi:role="line">Hebocon</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4664"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15428258,0,0,0.15428258,16.211934,37.858601)"><flowRegion
+         id="flowRegion4666"><rect
+           id="rect4668"
+           width="123.34647"
+           height="49.054386"
+           x="42.899693"
+           y="302.75012" /></flowRegion><flowPara
+         id="flowPara4670">10:00</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.15428258,0,0,0.15428258,16.211934,198.50548)"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4678"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4674"><rect
+           y="302.75012"
+           x="42.899693"
+           height="49.054386"
+           width="123.34647"
+           id="rect4672" /></flowRegion><flowPara
+         id="flowPara4676">20:00</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4686"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15428258,0,0,0.15428258,16.211934,113.94868)"><flowRegion
+         id="flowRegion4682"><rect
+           id="rect4680"
+           width="123.34647"
+           height="49.054386"
+           x="42.899693"
+           y="302.75012" /></flowRegion><flowPara
+         id="flowPara4684">15:00</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4713"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.13668667,0,0,0.13668667,29.914628,35.883913)"><flowRegion
+         id="flowRegion4715"
+         style="text-align:center;text-anchor:middle"><rect
+           id="rect4717"
+           width="197.18192"
+           height="118.28387"
+           x="184.94524"
+           y="272.32489"
+           style="text-anchor:middle;text-align:center;" /></flowRegion><flowPara
+         id="flowPara4719">Talleres y charlas</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.14359415,0,0,0.14359415,63.528466,37.925468)"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4727"
+       xml:space="preserve"><flowRegion
+         style="text-align:center;text-anchor:middle"
+         id="flowRegion4723"><rect
+           style="text-align:center;text-anchor:middle"
+           y="272.32489"
+           x="184.94524"
+           height="113.78347"
+           width="358.12469"
+           id="rect4721" /></flowRegion><flowPara
+         id="flowPara4725">Competiciones</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4735"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.14359415,0,0,0.14359415,110.47996,37.925468)"><flowRegion
+         id="flowRegion4731"
+         style="text-align:center;text-anchor:middle"><rect
+           id="rect4729"
+           width="358.12469"
+           height="113.78347"
+           x="184.94524"
+           y="272.32489"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4733">Proyectos</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66719127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.283034,87.740148 H 186.01615"
+       id="path4737"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4739"
+       d="M 45.283034,248.35007 H 186.01615"
+       style="fill:none;stroke:#000000;stroke-width:0.66719121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.1145748,0,0,0.1145748,22.508347,142.47614)"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4751"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4747"><rect
+           y="302.75012"
+           x="42.899693"
+           height="49.054386"
+           width="123.34647"
+           id="rect4745" /></flowRegion><flowPara
+         id="flowPara4749">16:00</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.803154"
+       y="179.2482"
+       id="text4755"><tspan
+         sodipodi:role="line"
+         id="tspan4753"
+         x="37.803154"
+         y="188.61197"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4763"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.1145748,0,0,0.1145748,22.508347,166.48397)"><flowRegion
+         id="flowRegion4759"><rect
+           id="rect4757"
+           width="123.34647"
+           height="49.054386"
+           x="42.899693"
+           y="302.75012" /></flowRegion><flowPara
+         id="flowPara4761">18:00</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.1145748,0,0,0.1145748,22.508347,189.99836)"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4771"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4767"><rect
+           y="302.75012"
+           x="42.899693"
+           height="49.054386"
+           width="123.34647"
+           id="rect4765" /></flowRegion><flowPara
+         id="flowPara4769">19:30</flowPara></flowRoot>  </g>
+</svg>
