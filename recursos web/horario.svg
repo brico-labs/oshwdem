@@ -15,7 +15,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="horario.svg">
   <defs
      id="defs2">
@@ -565,9 +565,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50321562"
-     inkscape:cx="4.1612998"
-     inkscape:cy="344.34538"
+     inkscape:zoom="1.4233087"
+     inkscape:cx="175.24625"
+     inkscape:cy="298.99512"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -578,9 +578,9 @@
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="1680"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:bbox-nodes="true"
@@ -601,6 +601,24 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.62485605"
+       id="rect4706"
+       width="177.29884"
+       height="80.636436"
+       x="25.514318"
+       y="268.95715"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.63472885"
+       id="rect4719"
+       width="198.50296"
+       height="197.87737"
+       x="5.4031301"
+       y="64.776115"
+       inkscape:export-xdpi="120.15236"
+       inkscape:export-ydpi="120.15236" />
     <g
        id="g4711"
        transform="matrix(1,0,0,0.95714621,104.86617,3.8091368)">
@@ -738,31 +756,25 @@
            style="fill:#f2f2f2;stroke-width:0.13864836">Laberinto</tspan></text>
     </g>
     <g
-       transform="translate(-46.957474,134.7202)"
-       id="g4580">
+       id="g4717">
       <rect
-         y="-16.575029"
-         x="139.52806"
+         y="118.14517"
+         x="92.570587"
          height="22.00404"
          width="46.493809"
          id="rect4567"
          style="fill:#217867;fill-opacity:1;stroke:none;stroke-width:0.19292355;stroke-miterlimit:10;stroke-dasharray:none" />
       <text
          id="text4506"
-         y="-6.7854948"
-         x="162.74182"
+         y="130.69244"
+         x="115.78435"
          style="font-style:normal;font-weight:normal;font-size:5.22222853px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.1305557"
          xml:space="preserve"><tspan
-           style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
-           y="-6.7854948"
-           x="162.74182"
-           id="tspan4504"
-           sodipodi:role="line">Siguelíneas de</tspan><tspan
            id="tspan4513"
            style="text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.1305557"
-           y="-0.25770915"
-           x="162.74182"
-           sodipodi:role="line"> iniciación</tspan></text>
+           y="130.69244"
+           x="115.78435"
+           sodipodi:role="line">Siguelíneas</tspan></text>
     </g>
     <g
        id="g4585"
@@ -1379,7 +1391,7 @@
          xml:space="preserve"
          id="flowRoot3728"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-         transform="matrix(0.22089523,0,0,0.22089523,36.103197,-17.705205)"><flowRegion
+         transform="matrix(0.22089523,0,0,0.22089523,39.585949,-17.705205)"><flowRegion
            id="flowRegion3730"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"><rect
              id="rect3732"
@@ -1522,7 +1534,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.68371677px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.39209291;stroke-opacity:1">Noviembre</tspan></text>
       </g>
       <flowRoot
-         transform="matrix(0.22089523,0,0,0.22089523,36.103197,-17.705205)"
+         transform="matrix(0.22089523,0,0,0.22089523,39.585949,-17.705205)"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
          id="flowRoot1239"
          xml:space="preserve"><flowRegion
@@ -1695,7 +1707,7 @@
          xml:space="preserve"
          id="flowRoot1313"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-         transform="matrix(0.22089523,0,0,0.22089523,36.103197,-17.705205)"><flowRegion
+         transform="matrix(0.22089523,0,0,0.22089523,39.585949,-17.705205)"><flowRegion
            id="flowRegion1309"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"><rect
              id="rect1307"
@@ -1862,7 +1874,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.68371677px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;stroke:#a02c2c;stroke-width:0.39209291;stroke-opacity:1">Noviembre</tspan></text>
       </g>
       <flowRoot
-         transform="matrix(0.22089523,0,0,0.22089523,36.103197,-17.705205)"
+         transform="matrix(0.22089523,0,0,0.22089523,39.585949,-17.705205)"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
          id="flowRoot1387"
          xml:space="preserve"><flowRegion
@@ -2035,7 +2047,7 @@
          xml:space="preserve"
          id="flowRoot1461"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-         transform="matrix(0.22089523,0,0,0.22089523,46.686537,-17.705205)"><flowRegion
+         transform="matrix(0.22089523,0,0,0.22089523,48.427913,-17.705205)"><flowRegion
            id="flowRegion1457"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"><rect
              id="rect1455"
