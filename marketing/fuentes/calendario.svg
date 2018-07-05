@@ -16,7 +16,10 @@
    version="1.1"
    id="svg340"
    sodipodi:docname="calendario.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/4m1g0/proyectos/oshwdem/marketing/calendario.png"
+   inkscape:export-xdpi="234"
+   inkscape:export-ydpi="234">
   <defs
      id="defs334">
     <filter
@@ -213,15 +216,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1109523"
-     inkscape:cx="79.005311"
-     inkscape:cy="87.898721"
+     inkscape:zoom="0.52773808"
+     inkscape:cx="-455.2983"
+     inkscape:cy="296.2856"
      inkscape:document-units="mm"
      inkscape:current-layer="g563"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1053"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -400,17 +403,17 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot3728"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-         transform="matrix(0.22089523,0,0,0.22089523,36.103197,-17.705205)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;"
+         transform="matrix(0.25644861,0,0,0.25644861,20.382672,-27.587636)"><flowRegion
            id="flowRegion3730"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;"><rect
              id="rect3732"
              width="183.26433"
              height="184.40721"
              x="441.46136"
              y="191.01956"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;" /></flowRegion><flowPara
            id="flowPara3734"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d">10</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.33332825px;font-family:Geneva;-inkscape-font-specification:'Geneva, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;">10</flowPara></flowRoot>    </g>
   </g>
 </svg>
