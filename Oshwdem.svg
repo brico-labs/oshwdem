@@ -14,7 +14,7 @@
    viewBox="0 0 291.32205 113.52946"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Oshwdem.svg"
    inkscape:export-filename="/home/oscar/proyectos/oshwdem/Oshwdem.png"
    inkscape:export-xdpi="159.03619"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71165436"
-     inkscape:cx="394.98159"
-     inkscape:cy="310.99555"
+     inkscape:zoom="0.50321562"
+     inkscape:cx="332.77773"
+     inkscape:cy="239.22843"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -39,8 +39,8 @@
      fit-margin-top="2"
      fit-margin-right="2"
      fit-margin-bottom="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -221,7 +221,7 @@
        xml:space="preserve"
        id="flowRoot111"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99980164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#15738d;fill-opacity:1;stroke:none"
-       transform="matrix(0.21535234,0,0,0.25123784,10.92553,10.408298)"><flowRegion
+       transform="matrix(0.20653025,0,0,0.24094567,13.158573,11.258785)"><flowRegion
          id="flowRegion113"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99980164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#15738d;fill-opacity:1"><rect
            id="rect115"
@@ -231,7 +231,7 @@
            y="82.801491"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99980164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#15738d;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara117"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99980164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#15738d;fill-opacity:1">OPEN  SOURCE  HARDWARE  DEMOSTRATION</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99980164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#15738d;fill-opacity:1">OPEN  SOURCE  HARDWARE  DEMONSTRATION</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.99980164px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#15738d;fill-opacity:1"
          id="flowPara119" /></flowRoot>    <flowRoot
        xml:space="preserve"
