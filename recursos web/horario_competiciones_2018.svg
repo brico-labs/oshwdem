@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="horario_competiciones_2018.svg"
-   inkscape:export-filename="/home/oscar/proyectos/oshwdem/recursos web/horario_competiciones_2018.png"
+   inkscape:export-filename="/home/4m1g0/proyectos/oshwdem/recursos web/horario_competiciones_2018_2.png"
    inkscape:export-xdpi="170"
    inkscape:export-ydpi="170">
   <defs
@@ -205,11 +205,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6932346"
-     inkscape:cx="86.767355"
-     inkscape:cy="461.34139"
+     inkscape:zoom="2.8466173"
+     inkscape:cx="207.08006"
+     inkscape:cy="270.7315"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -220,8 +220,8 @@
      inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1413"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -302,7 +302,7 @@
        id="g4717"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362"
-       transform="translate(0,-0.0035392)">
+       transform="translate(0,24.227004)">
       <rect
          y="118.14517"
          x="92.570587"
@@ -324,7 +324,7 @@
     </g>
     <g
        id="g4585"
-       transform="translate(-46.957474,192.50581)"
+       transform="translate(-46.957474,167.90348)"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362">
       <rect
@@ -347,7 +347,7 @@
            id="tspan4523">Velocistas</tspan></text>
     </g>
     <g
-       transform="translate(-46.964758,167.92829)"
+       transform="translate(-46.964758,192.4662)"
        id="g4593"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362">
@@ -372,7 +372,7 @@
     </g>
     <g
        id="g4601"
-       transform="translate(-46.964758,134.66604)"
+       transform="translate(-46.964758,110.407)"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362">
       <rect
