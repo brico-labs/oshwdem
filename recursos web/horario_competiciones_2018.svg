@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="horario_competiciones_2018.svg">
+   sodipodi:docname="horario_competiciones_2018.svg"
+   inkscape:export-filename="/home/oscar/proyectos/oshwdem/recursos web/horario_competiciones_2018.png"
+   inkscape:export-xdpi="170"
+   inkscape:export-ydpi="170">
   <defs
      id="defs2">
     <filter
@@ -204,9 +207,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0064312"
-     inkscape:cx="-201.90737"
-     inkscape:cy="358.43222"
+     inkscape:zoom="5.6932346"
+     inkscape:cx="86.767355"
+     inkscape:cy="461.34139"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -214,7 +217,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:window-width="2560"
@@ -236,7 +239,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -298,7 +301,8 @@
     <g
        id="g4717"
        inkscape:export-xdpi="170.35362"
-       inkscape:export-ydpi="170.35362">
+       inkscape:export-ydpi="170.35362"
+       transform="translate(0,-0.0035392)">
       <rect
          y="118.14517"
          x="92.570587"
@@ -320,7 +324,7 @@
     </g>
     <g
        id="g4585"
-       transform="translate(-46.957474,134.66604)"
+       transform="translate(-46.957474,192.50581)"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362">
       <rect
@@ -343,7 +347,7 @@
            id="tspan4523">Velocistas</tspan></text>
     </g>
     <g
-       transform="translate(-46.957474,167.94158)"
+       transform="translate(-46.964758,167.92829)"
        id="g4593"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362">
@@ -368,7 +372,7 @@
     </g>
     <g
        id="g4601"
-       transform="translate(-46.957474,192.51802)"
+       transform="translate(-46.964758,134.66604)"
        inkscape:export-xdpi="170.35362"
        inkscape:export-ydpi="170.35362">
       <rect
@@ -716,5 +720,5 @@
            height="775.01575"
            x="-94.392937"
            y="-29.690645" /></flowRegion><flowPara
-         id="flowPara1253"></flowPara></flowRoot>  </g>
+         id="flowPara1253" /></flowRoot>  </g>
 </svg>
